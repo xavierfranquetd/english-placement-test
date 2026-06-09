@@ -29,7 +29,7 @@
     {"t": "She is going ___ visit her family next month.",     "opts": ["for","to","at","by"],           "ans": 1},
     {"t": "You ___ wear a jacket. It is very cold outside.",   "opts": ["would","can't","did","should"], "ans": 3},
     {"t": "How ___ people were at the party?",                 "opts": ["much","many","more","long"],    "ans": 1},
-    {"t": "Can I have ___ water, please?",                     "opts": ["any","a","the","some"],         "ans": 3}
+    {"t": "I would like ___ water, please.",                   "opts": ["any","a","the","some"],         "ans": 3}
   ],
   "2": [
     {"t": "My sister ___ a doctor. She works at a hospital.",  "opts": ["are","is","am","be"],           "ans": 1},
@@ -38,7 +38,7 @@
     {"t": "___ your parents work in an office?",               "opts": ["Do","Are","Is","Does"],         "ans": 0},
     {"t": "She ___ English very well. She studies every day.", "opts": ["speak","speaking","is speak","speaks"], "ans": 3},
     {"t": "There ___ two windows in my bedroom.",              "opts": ["is","be","have","are"],         "ans": 3},
-    {"t": "I ___ have a car. I take the metro.",               "opts": ["doesn't","am not","don't","can't"], "ans": 2},
+    {"t": "I ___ have a car, a motorbike, or a bicycle. I always walk.", "opts": ["doesn't","am not","don't","can't"], "ans": 2},
     {"t": "___ he play football at the weekend?",              "opts": ["Do","Does","Is","Are"],         "ans": 1},
     {"t": "They went to the park ___ Sunday afternoon.",       "opts": ["in","at","on","by"],            "ans": 2},
     {"t": "She ___ her homework three hours ago.",             "opts": ["finish","finishing","finishes","finished"], "ans": 3},
@@ -47,7 +47,7 @@
     {"t": "He ___ TV when I called him.",                      "opts": ["watched","was watching","watches","is watching"], "ans": 1},
     {"t": "My mother is ___ than my father.",                  "opts": ["older","more old","old","oldest"], "ans": 0},
     {"t": "This is ___ book I have ever read.",                "opts": ["the best","best","a best","the better"], "ans": 0},
-    {"t": "Can you pass me ___ salt, please?",                 "opts": ["any","some","a","the"],         "ans": 1},
+    {"t": "I am making soup. Can you pass me ___ salt?",       "opts": ["any","some","a","much"],        "ans": 1},
     {"t": "How ___ milk do we need for the recipe?",           "opts": ["many","much","more","most"],    "ans": 1},
     {"t": "I would like ___ learn how to drive.",              "opts": ["for","to","at","—"],            "ans": 1},
     {"t": "She ___ drive a car when she was sixteen.",         "opts": ["can't","couldn't","didn't","wasn't"], "ans": 1},
@@ -59,14 +59,14 @@
     {"t": "There ___ a lot of traffic this morning.",          "opts": ["were","was","is being","had"],  "ans": 1},
     {"t": "___ many students in your class?",                  "opts": ["Is there","Do","Have","Are there"], "ans": 3},
     {"t": "I ___ never been to Europe.",                       "opts": ["had","have","has","am"],        "ans": 1},
-    {"t": "She usually ___ up at seven o clock.",              "opts": ["get","got","gets","getting"],   "ans": 2},
+    {"t": "She usually ___ up at seven o'clock.",              "opts": ["get","got","gets","getting"],   "ans": 2},
     {"t": "They ___ pizza for dinner last night.",             "opts": ["have","has","having","had"],    "ans": 3},
     {"t": "Is there ___ milk in the fridge?",                  "opts": ["some","any","a","the"],         "ans": 1}
   ],
   "3": [
     {"t": "___ name is Pedro. He is from Bogota.",             "opts": ["Her","His","My","Their"],       "ans": 1},
     {"t": "We ___ students at the university.",                "opts": ["is","are","am","be"],           "ans": 1},
-    {"t": "___ does the class start? At nine o clock.",        "opts": ["What","When","What time","How"], "ans": 2},
+    {"t": "___ does the class start — at nine or at ten?",     "opts": ["What","When","What time","How"], "ans": 2},
     {"t": "My brother ___ like vegetables.",                   "opts": ["don't","doesn't","isn't","aren't"], "ans": 1},
     {"t": "___ she have a bicycle?",                           "opts": ["Do","Has","Is","Does"],         "ans": 3},
     {"t": "I always ___ breakfast before school.",             "opts": ["eats","ate","eating","eat"],    "ans": 3},
@@ -85,7 +85,7 @@
     {"t": "I ___ ride a bike when I was five years old.",      "opts": ["can","couldn't","didn't","could"], "ans": 3},
     {"t": "___ did you buy that jacket? It is beautiful.",     "opts": ["What","Who","Which","Where"],   "ans": 3},
     {"t": "The pharmacy is ___ the bank.",                     "opts": ["next","between","opposite","on"], "ans": 2},
-    {"t": "She works ___ a hospital in the centre of town.",   "opts": ["on","at","in","by"],            "ans": 2},
+    {"t": "She works ___ the children's ward of the hospital.","opts": ["on","at","in","by"],            "ans": 2},
     {"t": "He is ___ to start a new job next Monday.",         "opts": ["go","gone","going","went"],     "ans": 2},
     {"t": "You ___ forget your passport. It is very important.","opts": ["must","should","mustn't","can't"], "ans": 2},
     {"t": "___ were not many people at the party.",            "opts": ["They","It","There","Here"],     "ans": 2},
